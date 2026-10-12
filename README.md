@@ -1,5 +1,5 @@
 [![Java CI with Maven](https://github.com/IndiKex/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/IndiKex/se-lab/actions/workflows/maven.yml)
-[![License: MIT](https://shields.io)](LICENSE)
+[![License: MIT](https://shields.io/badge/license-MIT_LICENSE)](LICENSE)
 
 # SE Spaceship
 
